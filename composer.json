@@ -1,0 +1,21 @@
+{
+    "name": "mi6crazyheart/youtube-extract",
+    "description": "Library for extracting youtube meta data",
+    "license": "MIT",
+    "keywords": ["youtube"],
+    "authors": [
+        {
+            "name": "Suresh Kumar Majhi",
+            "email": "suresh.majhi.cse@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "5.5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "mi6crazyheart\\youtube-extract\\": "src"
+        }
+    }
+}
