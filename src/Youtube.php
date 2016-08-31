@@ -1,6 +1,6 @@
-<?php namespace mi6crazyheart\Youtube;
+<?php namespace Youtube\Extract;
 
-class Youtube {
+class Extract {
 
 	public function validateUrl($url)
 	{
@@ -13,6 +13,11 @@ class Youtube {
 		{
 			return false;
 		}
+	}
+
+	public function greeting()
+	{
+		return "Good Morning";
 	}
 
 }

@@ -1,5 +1,5 @@
 {
-    "name": "mi6crazyheart/youtube-extract",
+    "name": "Youtube/Extract",
     "description": "Library for extracting youtube meta data",
     "license": "MIT",
     "keywords": ["youtube"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mi6crazyheart\\youtube-extract\\": "src"
+            "Youtube\\Extract\\": "src"
         }
     }
 }
