@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Youtube\\Extract\\": "src"
+            "Youtube\\Extract\\": "src/Youtube/Extract"
         }
     }
 }
