@@ -1,4 +1,4 @@
-<?php namespace Youtube;
+<?php namespace Youtube\Extract;
 
 class Extract {
 
