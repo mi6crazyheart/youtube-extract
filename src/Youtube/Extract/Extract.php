@@ -1,6 +1,6 @@
 <?php namespace Youtube\Extract;
 
-class Extract {
+class Meta {
 
 	public function validateUrl($url)
 	{
