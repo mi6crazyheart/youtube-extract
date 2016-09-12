@@ -12,7 +12,7 @@ This is a simple wrapper class which will help you to find out youtube video met
 Through [Composer](https://getcomposer.org/).
 
 ```
-composer require mi6crazyheart/youtube-extract
+composer require mi6crazyheart/youtube-extract dev-master
 ```
 
 After installing, you need to require Composer's autoloader.
