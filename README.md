@@ -1,6 +1,6 @@
 # youtube-extract
 
-This is a simple wrapper class which will help you to find out youtube video meta info from youtube video URL. Internally it uses youtube's YouTube Data API.
+This is a simple wrapper class which will help you to find out youtube video meta info from youtube video URL. Internally it uses youtube's YouTube Data API. It requires Google API key to connect with youtube server & extract data. For more info Ref- https://developers.google.com/youtube/v3/getting-started#before-you-start
 
 ### Meta info supported
 - video thumbnails
@@ -17,7 +17,6 @@ This wrapper has 5 methods.
 - fetchDescription() : Fetch video description.
 - fetchStatistics() : Fetch video statistics like- view count, like count, dis like count, favorite count, comment count.
 
-It requires Google API key to connect with youtube server & extract data. For more info Ref- https://developers.google.com/youtube/v3/getting-started#before-you-start
 
 ### Example
 
