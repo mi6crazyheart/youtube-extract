@@ -11,11 +11,15 @@ This is a simple wrapper class which will help you to find out youtube video met
 ### Installation
 Through [Composer](https://getcomposer.org/).
 
-```composer require mi6crazyheart/youtube-extract```
+```
+composer require mi6crazyheart/youtube-extract
+```
 
 After installing, you need to require Composer's autoloader.
 
-```require __DIR__ . '/vendor/autoload.php';```
+```
+require __DIR__ . '/vendor/autoload.php';
+```
 
 ### Getting Started
 
