@@ -8,6 +8,15 @@ This is a simple wrapper class which will help you to find out youtube video met
 - video description
 - video statistics
 
+### Installation
+Through [Composer](https://getcomposer.org/).
+
+```composer require mi6crazyheart/youtube-extract```
+
+After installing, you need to require Composer's autoloader.
+
+```require __DIR__ . '/vendor/autoload.php';```
+
 ### Getting Started
 
 This wrapper has 5 methods.
